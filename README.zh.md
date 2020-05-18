@@ -247,6 +247,30 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 
 其实这个SEO Title就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
+
+
+#### 隐藏post
+
+放在hidden中
+
+```
+title: "「SF-LC」1 Basics"
+subtitle: "Logical Foundations - Functional Programming in Coq"
+layout: post
+author: "Hux"
+header-style: text
+hidden: true
+tags:
+  - LF (逻辑基础)
+  - SF (软件基础)
+  - Coq
+  - 笔记
+```
+
+
+
+
+
 ## 致谢
 
 1. 这个模板是从这里[IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll)  fork 的。 感谢这个作者
