@@ -1,6 +1,6 @@
 # Site settings
-title: Zxl和他家的猪
-SEOTitle: 我们的故事 | Zxl&Zx
+title: Zxl♥Zx
+SEOTitle: 我们的故事 | Zxl♥Zx
 header-img: img/home-bg-heart.jpg
 email: 1974324200@qq.com
 description: "关于我们的故事。"
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "斯人若彩虹，遇上方知有。"
+sidebar-about-description: "Zxl和他家的猪。"
 sidebar-avatar: /img/profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
