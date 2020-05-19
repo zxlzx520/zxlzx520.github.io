@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+title:      "我们的故事，从这里启航"
+subtitle:   "你还在瞅啥？点这个来\"投票\"呀"
+date:       2020-05-20 13:14:00
+author:     "Zxl"
+header-img: "img/post-bg-first.jpg"
 catalog: true
 tags:
     - 生活
-    - Meta
+    - 节日
 ---
 
 > “Yeah It's on. ”
