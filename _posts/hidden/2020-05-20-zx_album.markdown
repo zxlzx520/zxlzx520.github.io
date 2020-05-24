@@ -14,21 +14,15 @@ tags:
 ---
 
 
-
-
-
-
-
-
 <p id = "build"></p>
 
 ### 丑照
 
-<table>
-    <tr>
-        ![1](img src=../../img/in-post/zx_album/1.jpg) ![2](img src=../../img/in-post/zx_album/2.jpg)
-    </tr>
-</table>
+| ![1](../../img/in-post/zx_album/1.jpg) | ![2](../../img/in-post/zx_album/2.jpg) |
+| -------------------------------------- | -------------------------------------- |
+|                                        |                                        |
+
+ 
 
 
 

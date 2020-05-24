@@ -19,15 +19,8 @@ tags:
 
 <p id = "build"></p>
 
-<table>
-    <tr>
-        <td ><center><img src=../img/in-post/2020-05-20-zx_present/1.jpg >风扇吹的真舒服hhh</center></td>
-        <td ><center><img src=../img/in-post/2020-05-20-zx_present/2.jpg ></center></td>
-    </tr>
-    <tr>
-        <td ><center><img src=../img/in-post/2020-05-20-zx_present/3.jpg ></center></td>
-        <td ><center><img src=../img/in-post/2020-05-20-zx_present/4.jpg ></center></td>
-    </tr>
-</table>
 
+| ![1](../img/in-post/2020-05-20-zx_present/1.jpg) | ![1](../img/in-post/2020-05-20-zx_present/2.jpg) |
+| ------------------------------------------------ | ------------------------------------------------ |
+| ![1](../img/in-post/2020-05-20-zx_present/3.jpg) | ![1](../img/in-post/2020-05-20-zx_present/4.jpg) |
 
