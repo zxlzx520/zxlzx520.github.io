@@ -4,7 +4,7 @@ title:      "520收到的小礼物"
 subtitle:   "香囊寄身，许暗香盈袖"
 date:       2020-05-20 20:00:00
 author:     "Zxl"
-header-img: "img/in-post/20-520/1.jpg"
+header-style: text
 catalog: true
 tags:
     - 节日
