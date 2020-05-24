@@ -1,0 +1,28 @@
+---
+/layout:     post
+title:      "昕小猪的丑照"
+subtitle:   "看什么看，不许点进来啊"
+date:       2020-05-24 16:00:00
+author:     "Zxl"
+header-style: text
+hidden: true
+catalog: true
+tags:
+    - 生活
+    - 照片
+    - Zx
+---
+
+
+<p id = "build"></p>
+
+### 丑照
+
+| ![1](/img/in-post/zx_album/lovely/1.jpg) | ![2](/img/in-post/zx_album/lovely/2.jpg) |
+| ---------------------------------------- | ---------------------------------------- |
+|                                          |                                          |
+
+ 
+
+
+
