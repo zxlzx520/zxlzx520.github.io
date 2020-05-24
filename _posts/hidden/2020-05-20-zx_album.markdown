@@ -26,8 +26,7 @@ tags:
 
 <table>
     <tr>
-        <td ><center><img src=../../img/in-post/zx_album/1.jpg ></center></td>
-        <td ><center><img src=../../img/in-post/zx_album/2.jpg ></center></td>
+        ![1](img src=../../img/in-post/zx_album/1.jpg) ![2](img src=../../img/in-post/zx_album/2.jpg)
     </tr>
 </table>
 
